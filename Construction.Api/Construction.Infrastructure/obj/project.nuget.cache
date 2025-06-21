@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H7cmqJqIGyM=",
+  "success": true,
+  "projectFilePath": "D:\\practical-project\\Construction.Api\\Construction.Infrastructure\\Construction.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bhavik Vaja\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.6\\microsoft.extensions.dependencyinjection.abstractions.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

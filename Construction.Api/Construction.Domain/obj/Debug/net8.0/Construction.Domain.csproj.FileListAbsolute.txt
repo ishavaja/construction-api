@@ -1,0 +1,12 @@
+D:\practical-project\Construction.Api\Construction.Domain\bin\Debug\net8.0\Construction.Domain.deps.json
+D:\practical-project\Construction.Api\Construction.Domain\bin\Debug\net8.0\Construction.Domain.dll
+D:\practical-project\Construction.Api\Construction.Domain\bin\Debug\net8.0\Construction.Domain.pdb
+D:\practical-project\Construction.Api\Construction.Domain\obj\Debug\net8.0\Construction.Domain.csproj.AssemblyReference.cache
+D:\practical-project\Construction.Api\Construction.Domain\obj\Debug\net8.0\Construction.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\practical-project\Construction.Api\Construction.Domain\obj\Debug\net8.0\Construction.Domain.AssemblyInfoInputs.cache
+D:\practical-project\Construction.Api\Construction.Domain\obj\Debug\net8.0\Construction.Domain.AssemblyInfo.cs
+D:\practical-project\Construction.Api\Construction.Domain\obj\Debug\net8.0\Construction.Domain.csproj.CoreCompileInputs.cache
+D:\practical-project\Construction.Api\Construction.Domain\obj\Debug\net8.0\Construction.Domain.dll
+D:\practical-project\Construction.Api\Construction.Domain\obj\Debug\net8.0\refint\Construction.Domain.dll
+D:\practical-project\Construction.Api\Construction.Domain\obj\Debug\net8.0\Construction.Domain.pdb
+D:\practical-project\Construction.Api\Construction.Domain\obj\Debug\net8.0\ref\Construction.Domain.dll

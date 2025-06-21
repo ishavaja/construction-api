@@ -1,0 +1,15 @@
+D:\practical-project\Construction.Api\Construction.Application\bin\Debug\net8.0\Construction.Application.deps.json
+D:\practical-project\Construction.Api\Construction.Application\bin\Debug\net8.0\Construction.Application.dll
+D:\practical-project\Construction.Api\Construction.Application\bin\Debug\net8.0\Construction.Application.pdb
+D:\practical-project\Construction.Api\Construction.Application\bin\Debug\net8.0\Construction.Domain.dll
+D:\practical-project\Construction.Api\Construction.Application\bin\Debug\net8.0\Construction.Domain.pdb
+D:\practical-project\Construction.Api\Construction.Application\obj\Debug\net8.0\Construction.Application.csproj.AssemblyReference.cache
+D:\practical-project\Construction.Api\Construction.Application\obj\Debug\net8.0\Construction.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\practical-project\Construction.Api\Construction.Application\obj\Debug\net8.0\Construction.Application.AssemblyInfoInputs.cache
+D:\practical-project\Construction.Api\Construction.Application\obj\Debug\net8.0\Construction.Application.AssemblyInfo.cs
+D:\practical-project\Construction.Api\Construction.Application\obj\Debug\net8.0\Construction.Application.csproj.CoreCompileInputs.cache
+D:\practical-project\Construction.Api\Construction.Application\obj\Debug\net8.0\Construc.86140D3C.Up2Date
+D:\practical-project\Construction.Api\Construction.Application\obj\Debug\net8.0\Construction.Application.dll
+D:\practical-project\Construction.Api\Construction.Application\obj\Debug\net8.0\refint\Construction.Application.dll
+D:\practical-project\Construction.Api\Construction.Application\obj\Debug\net8.0\Construction.Application.pdb
+D:\practical-project\Construction.Api\Construction.Application\obj\Debug\net8.0\ref\Construction.Application.dll

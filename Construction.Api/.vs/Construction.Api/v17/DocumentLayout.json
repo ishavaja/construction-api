@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\practical-project\\Construction.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2C96F4-D80A-4906-9647-83C811F273F0}|Construction.Api\\Construction.Api.csproj|d:\\practical-project\\construction.api\\construction.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2C96F4-D80A-4906-9647-83C811F273F0}|Construction.Api\\Construction.Api.csproj|solutionrelative:construction.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31BCD69-9E8D-4CBF-BAAB-2FB722747F35}|Construction.Infrastructure\\Construction.Infrastructure.csproj|d:\\practical-project\\construction.api\\construction.infrastructure\\services\\observationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31BCD69-9E8D-4CBF-BAAB-2FB722747F35}|Construction.Infrastructure\\Construction.Infrastructure.csproj|solutionrelative:construction.infrastructure\\services\\observationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916AF2E4-4897-405B-A90E-85C493931CE4}|Construction.Application\\Construction.Application.csproj|d:\\practical-project\\construction.api\\construction.application\\interfaces\\iobservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916AF2E4-4897-405B-A90E-85C493931CE4}|Construction.Application\\Construction.Application.csproj|solutionrelative:construction.application\\interfaces\\iobservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2C96F4-D80A-4906-9647-83C811F273F0}|Construction.Api\\Construction.Api.csproj|d:\\practical-project\\construction.api\\construction.api\\controllers\\observationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2C96F4-D80A-4906-9647-83C811F273F0}|Construction.Api\\Construction.Api.csproj|solutionrelative:construction.api\\controllers\\observationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31BCD69-9E8D-4CBF-BAAB-2FB722747F35}|Construction.Infrastructure\\Construction.Infrastructure.csproj|d:\\practical-project\\construction.api\\construction.infrastructure\\services\\shared\\commandata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31BCD69-9E8D-4CBF-BAAB-2FB722747F35}|Construction.Infrastructure\\Construction.Infrastructure.csproj|solutionrelative:construction.infrastructure\\services\\shared\\commandata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31BCD69-9E8D-4CBF-BAAB-2FB722747F35}|Construction.Infrastructure\\Construction.Infrastructure.csproj|d:\\practical-project\\construction.api\\construction.infrastructure\\data\\constructiondata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A31BCD69-9E8D-4CBF-BAAB-2FB722747F35}|Construction.Infrastructure\\Construction.Infrastructure.csproj|solutionrelative:construction.infrastructure\\data\\constructiondata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31BCD69-9E8D-4CBF-BAAB-2FB722747F35}|Construction.Infrastructure\\Construction.Infrastructure.csproj|d:\\practical-project\\construction.api\\construction.infrastructure\\construction.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A31BCD69-9E8D-4CBF-BAAB-2FB722747F35}|Construction.Infrastructure\\Construction.Infrastructure.csproj|solutionrelative:construction.infrastructure\\construction.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97273C44-F4A7-46F5-B236-41020D6A772A}|Construction.Domain\\Construction.Domain.csproj|d:\\practical-project\\construction.api\\construction.domain\\entities\\observationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97273C44-F4A7-46F5-B236-41020D6A772A}|Construction.Domain\\Construction.Domain.csproj|solutionrelative:construction.domain\\entities\\observationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916AF2E4-4897-405B-A90E-85C493931CE4}|Construction.Application\\Construction.Application.csproj|d:\\practical-project\\construction.api\\construction.application\\construction.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{916AF2E4-4897-405B-A90E-85C493931CE4}|Construction.Application\\Construction.Application.csproj|solutionrelative:construction.application\\construction.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97273C44-F4A7-46F5-B236-41020D6A772A}|Construction.Domain\\Construction.Domain.csproj|d:\\practical-project\\construction.api\\construction.domain\\construction.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{97273C44-F4A7-46F5-B236-41020D6A772A}|Construction.Domain\\Construction.Domain.csproj|solutionrelative:construction.domain\\construction.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97273C44-F4A7-46F5-B236-41020D6A772A}|Construction.Domain\\Construction.Domain.csproj|d:\\practical-project\\construction.api\\construction.domain\\entities\\propertyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97273C44-F4A7-46F5-B236-41020D6A772A}|Construction.Domain\\Construction.Domain.csproj|solutionrelative:construction.domain\\entities\\propertyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2C96F4-D80A-4906-9647-83C811F273F0}|Construction.Api\\Construction.Api.csproj|d:\\practical-project\\construction.api\\construction.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2C96F4-D80A-4906-9647-83C811F273F0}|Construction.Api\\Construction.Api.csproj|solutionrelative:construction.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916AF2E4-4897-405B-A90E-85C493931CE4}|Construction.Application\\Construction.Application.csproj|d:\\practical-project\\construction.api\\construction.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916AF2E4-4897-405B-A90E-85C493931CE4}|Construction.Application\\Construction.Application.csproj|solutionrelative:construction.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31BCD69-9E8D-4CBF-BAAB-2FB722747F35}|Construction.Infrastructure\\Construction.Infrastructure.csproj|d:\\practical-project\\construction.api\\construction.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31BCD69-9E8D-4CBF-BAAB-2FB722747F35}|Construction.Infrastructure\\Construction.Infrastructure.csproj|solutionrelative:construction.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97273C44-F4A7-46F5-B236-41020D6A772A}|Construction.Domain\\Construction.Domain.csproj|d:\\practical-project\\construction.api\\construction.domain\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97273C44-F4A7-46F5-B236-41020D6A772A}|Construction.Domain\\Construction.Domain.csproj|solutionrelative:construction.domain\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConstructionData.json",
+              "DocumentMoniker": "D:\\practical-project\\Construction.Api\\Construction.Infrastructure\\Data\\ConstructionData.json",
+              "RelativeDocumentMoniker": "Construction.Infrastructure\\Data\\ConstructionData.json",
+              "ToolTip": "D:\\practical-project\\Construction.Api\\Construction.Infrastructure\\Data\\ConstructionData.json",
+              "RelativeToolTip": "Construction.Infrastructure\\Data\\ConstructionData.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-21T10:26:49.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ObservationController.cs",
+              "DocumentMoniker": "D:\\practical-project\\Construction.Api\\Construction.Api\\Controllers\\ObservationController.cs",
+              "RelativeDocumentMoniker": "Construction.Api\\Controllers\\ObservationController.cs",
+              "ToolTip": "D:\\practical-project\\Construction.Api\\Construction.Api\\Controllers\\ObservationController.cs",
+              "RelativeToolTip": "Construction.Api\\Controllers\\ObservationController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T10:17:25.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommanData.cs",
+              "DocumentMoniker": "D:\\practical-project\\Construction.Api\\Construction.Infrastructure\\Services\\Shared\\CommanData.cs",
+              "RelativeDocumentMoniker": "Construction.Infrastructure\\Services\\Shared\\CommanData.cs",
+              "ToolTip": "D:\\practical-project\\Construction.Api\\Construction.Infrastructure\\Services\\Shared\\CommanData.cs",
+              "RelativeToolTip": "Construction.Infrastructure\\Services\\Shared\\CommanData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T10:13:23.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObservationService.cs",
+              "DocumentMoniker": "D:\\practical-project\\Construction.Api\\Construction.Infrastructure\\Services\\ObservationService.cs",
+              "RelativeDocumentMoniker": "Construction.Infrastructure\\Services\\ObservationService.cs",
+              "ToolTip": "D:\\practical-project\\Construction.Api\\Construction.Infrastructure\\Services\\ObservationService.cs",
+              "RelativeToolTip": "Construction.Infrastructure\\Services\\ObservationService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAjwBEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T10:11:15.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\practical-project\\Construction.Api\\Construction.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Construction.Api\\Program.cs",
+              "ToolTip": "D:\\practical-project\\Construction.Api\\Construction.Api\\Program.cs",
+              "RelativeToolTip": "Construction.Api\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T09:58:10.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Construction.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\practical-project\\Construction.Api\\Construction.Infrastructure\\Construction.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Construction.Infrastructure\\Construction.Infrastructure.csproj",
+              "ToolTip": "D:\\practical-project\\Construction.Api\\Construction.Infrastructure\\Construction.Infrastructure.csproj",
+              "RelativeToolTip": "Construction.Infrastructure\\Construction.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-21T09:48:56.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IObservationService.cs",
+              "DocumentMoniker": "D:\\practical-project\\Construction.Api\\Construction.Application\\Interfaces\\IObservationService.cs",
+              "RelativeDocumentMoniker": "Construction.Application\\Interfaces\\IObservationService.cs",
+              "ToolTip": "D:\\practical-project\\Construction.Api\\Construction.Application\\Interfaces\\IObservationService.cs",
+              "RelativeToolTip": "Construction.Application\\Interfaces\\IObservationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T10:09:21.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ObservationData.cs",
+              "DocumentMoniker": "D:\\practical-project\\Construction.Api\\Construction.Domain\\Entities\\ObservationData.cs",
+              "RelativeDocumentMoniker": "Construction.Domain\\Entities\\ObservationData.cs",
+              "ToolTip": "D:\\practical-project\\Construction.Api\\Construction.Domain\\Entities\\ObservationData.cs",
+              "RelativeToolTip": "Construction.Domain\\Entities\\ObservationData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T10:06:22.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Construction.Domain.csproj",
+              "DocumentMoniker": "D:\\practical-project\\Construction.Api\\Construction.Domain\\Construction.Domain.csproj",
+              "RelativeDocumentMoniker": "Construction.Domain\\Construction.Domain.csproj",
+              "ToolTip": "D:\\practical-project\\Construction.Api\\Construction.Domain\\Construction.Domain.csproj",
+              "RelativeToolTip": "Construction.Domain\\Construction.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-21T10:05:24.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PropertyItem.cs",
+              "DocumentMoniker": "D:\\practical-project\\Construction.Api\\Construction.Domain\\Entities\\PropertyItem.cs",
+              "RelativeDocumentMoniker": "Construction.Domain\\Entities\\PropertyItem.cs",
+              "ToolTip": "D:\\practical-project\\Construction.Api\\Construction.Domain\\Entities\\PropertyItem.cs",
+              "RelativeToolTip": "Construction.Domain\\Entities\\PropertyItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T10:07:19.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\practical-project\\Construction.Api\\Construction.Api\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Construction.Api\\DependencyInjection.cs",
+              "ToolTip": "D:\\practical-project\\Construction.Api\\Construction.Api\\DependencyInjection.cs",
+              "RelativeToolTip": "Construction.Api\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T09:57:00.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\practical-project\\Construction.Api\\Construction.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Construction.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\practical-project\\Construction.Api\\Construction.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Construction.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T09:49:01.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Construction.Application.csproj",
+              "DocumentMoniker": "D:\\practical-project\\Construction.Api\\Construction.Application\\Construction.Application.csproj",
+              "RelativeDocumentMoniker": "Construction.Application\\Construction.Application.csproj",
+              "ToolTip": "D:\\practical-project\\Construction.Api\\Construction.Application\\Construction.Application.csproj",
+              "RelativeToolTip": "Construction.Application\\Construction.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-21T09:42:45.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\practical-project\\Construction.Api\\Construction.Domain\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Construction.Domain\\DependencyInjection.cs",
+              "ToolTip": "D:\\practical-project\\Construction.Api\\Construction.Domain\\DependencyInjection.cs",
+              "RelativeToolTip": "Construction.Domain\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T09:48:54.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\practical-project\\Construction.Api\\Construction.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Construction.Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\practical-project\\Construction.Api\\Construction.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Construction.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T09:43:27.489Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
